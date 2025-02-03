@@ -73,7 +73,5 @@
 
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pabloldias&theme=vue" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pabloldias&theme=vue)](https://git.io/streak-stats)
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pablo.ld&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 </div>
